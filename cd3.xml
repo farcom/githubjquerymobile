@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CATALOG xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<CD>
+		<TITLE>Empire Burlesque</TITLE>
+		<ARTIST>Bob Dylan</ARTIST>
+		<COUNTRY>USA</COUNTRY>
+		<AUDIO>AUDIO/AUDIO1.mp3</AUDIO>
+		<PRICE>10.9</PRICE>
+		<YEAR>2000</YEAR>
+		<IMAGE>images/IMAGE4.JPG</IMAGE>
+	</CD>
+	<CD>
+		<TITLE>Hide your heart</TITLE>
+		<ARTIST>Bonnie Tyler</ARTIST>
+		<COUNTRY>UK</COUNTRY>
+		<AUDIO>AUDIO/AUDIO2.mp3</AUDIO>
+		<PRICE>9.9</PRICE>
+		<YEAR>1988</YEAR>
+		<IMAGE>images/IMAGE1.JPG</IMAGE>
+	</CD>
+	<CD>
+		<TITLE>Greatest Hits</TITLE>
+		<ARTIST>Dolly Parton</ARTIST>
+		<COUNTRY>USA</COUNTRY>
+		<AUDIO>AUDIO/AUDIO3.mp3</AUDIO>
+		<PRICE>9.9</PRICE>
+		<YEAR>1982</YEAR>
+		<IMAGE>images/IMAGE2.JPG</IMAGE>
+	</CD>
+	<CD>
+		<TITLE>Still got the blues</TITLE>
+		<ARTIST>Gary Moore</ARTIST>
+		<COUNTRY>UK</COUNTRY>
+		<AUDIO>AUDIO/AUDIO5.mp3</AUDIO>
+		<PRICE>10.2</PRICE>
+		<YEAR>1990</YEAR>
+		<IMAGE>images/IMAGE1.JPG</IMAGE>
+	</CD>
+	<CD>
+		<TITLE>Eros</TITLE>
+		<ARTIST>Eros Ramazzotti</ARTIST>
+		<COUNTRY>EU</COUNTRY>
+		<AUDIO>AUDIO/AUDIO7.mp3</AUDIO>
+		<PRICE>9.9</PRICE>
+		<YEAR>1997</YEAR>
+		<IMAGE>images/IMAGE3.JPG</IMAGE>
+	</CD>
+	<CD>
+		<TITLE>One night only</TITLE>
+		<ARTIST>Bee Gees</ARTIST>
+		<COUNTRY>UK</COUNTRY>
+		<AUDIO>AUDIO/AUDIO8.mp3</AUDIO>
+		<PRICE>10.9</PRICE>
+		<YEAR>1998</YEAR>
+		<IMAGE>images/IMAGE4.JPG</IMAGE>
+	</CD>
+	<CD>
+		<TITLE>Sylvias Mother</TITLE>
+		<ARTIST>Dr.Hook</ARTIST>
+		<COUNTRY>UK</COUNTRY>
+		<AUDIO>AUDIO/AUDIO.mp3</AUDIO>
+		<PRICE>8.1</PRICE>
+		<YEAR>1973</YEAR>
+		<IMAGE>images/IMAGE1.JPG</IMAGE>
+	</CD>
+	<CD>
+		<TITLE>Maggie May</TITLE>
+		<ARTIST>Rod Stewart</ARTIST>
+		<COUNTRY>UK</COUNTRY>
+		<AUDIO>AUDIO/AUDIO9.mp3</AUDIO>
+		<PRICE>8.5</PRICE>
+		<YEAR>1990</YEAR>
+		<IMAGE>images/IMAGE4.JPG</IMAGE>
+	</CD>
+	<CD>
+		<TITLE>Romanza</TITLE>
+		<ARTIST>Andrea Bocelli</ARTIST>
+		<COUNTRY>EU</COUNTRY>
+		<AUDIO>AUDIO/AUDIO10.mp3</AUDIO>
+		<PRICE>10.8</PRICE>
+		<YEAR>1996</YEAR>
+		<IMAGE>images/IMAGE2.JPG</IMAGE>
+	</CD>
+	<CD>
+		<TITLE>When a man loves a woman</TITLE>
+		<ARTIST>Percy Sledge</ARTIST>
+		<COUNTRY>USA</COUNTRY>
+		<AUDIO>AUDIO/AUDIO.mp3</AUDIO>
+		<PRICE>8.7</PRICE>
+		<YEAR>1987</YEAR>
+		<IMAGE>images/IMAGE3.JPG</IMAGE>
+	</CD>
+	<CD>
+		<TITLE>Black angel</TITLE>
+		<ARTIST>Savage Rose</ARTIST>
+		<COUNTRY>EU</COUNTRY>
+		<AUDIO>AUDIO/AUDIO8.mp3</AUDIO>
+		<PRICE>10.9</PRICE>
+		<YEAR>1995</YEAR>
+		<IMAGE>images/IMAGE4.JPG</IMAGE>
+	</CD>
+	<CD>
+		<TITLE>1999 Grammy Nominees</TITLE>
+		<ARTIST>Many</ARTIST>
+		<COUNTRY>USA</COUNTRY>
+		<AUDIO>AUDIO/AUDIO3.mp3</AUDIO>
+		<PRICE>10.2</PRICE>
+		<YEAR>1999</YEAR>
+		<IMAGE>images/IMAGE2.JPG</IMAGE>
+	</CD>
+	<CD>
+		<TITLE>For the good times</TITLE>
+		<ARTIST>Kenny Rogers</ARTIST>
+		<COUNTRY>UK</COUNTRY>
+		<AUDIO>AUDIO/AUDIO1.mp3</AUDIO>
+		<PRICE>8.7</PRICE>
+		<YEAR>1995</YEAR>
+		<IMAGE>images/IMAGE1.JPG</IMAGE>
+	</CD>
+	<CD>
+		<TITLE>Big Willie style</TITLE>
+		<ARTIST>Will Smith</ARTIST>
+		<COUNTRY>USA</COUNTRY>
+		<AUDIO>AUDIO/AUDIO6.mp3</AUDIO>
+		<PRICE>9.9</PRICE>
+		<YEAR>1997</YEAR>
+		<IMAGE>images/IMAGE2.JPG</IMAGE>
+	</CD>
+	<CD>
+		<TITLE>Tupelo Honey</TITLE>
+		<ARTIST>Van Morrison</ARTIST>
+		<COUNTRY>UK</COUNTRY>
+		<AUDIO>AUDIO/AUDIO3.mp3</AUDIO>
+		<PRICE>8.2</PRICE>
+		<YEAR>1971</YEAR>
+		<IMAGE>images/IMAGE3.JPG</IMAGE>
+	</CD>
+	<CD>
+		<TITLE>Soulsville</TITLE>
+		<ARTIST>Jorn Hoel</ARTIST>
+		<COUNTRY>Norway</COUNTRY>
+		<AUDIO>AUDIO/AUDIO7.mp3</AUDIO>
+		<PRICE>7.9</PRICE>
+		<YEAR>1996</YEAR>
+		<IMAGE>images/IMAGE1.JPG</IMAGE>
+	</CD>
+	<CD>
+		<TITLE>The very best of</TITLE>
+		<ARTIST>Cat Stevens</ARTIST>
+		<COUNTRY>UK</COUNTRY>
+		<AUDIO>AUDIO/AUDIO6.mp3</AUDIO>
+		<PRICE>8.9</PRICE>
+		<YEAR>1990</YEAR>
+		<IMAGE>images/IMAGE2.JPG</IMAGE>
+	</CD>
+	<CD>
+		<TITLE>Stop</TITLE>
+		<ARTIST>Sam Brown</ARTIST>
+		<COUNTRY>UK</COUNTRY>
+		<AUDIO>AUDIO/AUDIO8.mp3</AUDIO>
+		<PRICE>8.9</PRICE>
+		<YEAR>1988</YEAR>
+		<IMAGE>images/IMAGE3.JPG</IMAGE>
+	</CD>
+	<CD>
+		<TITLE>Bridge of Spies</TITLE>
+		<ARTIST>T'Pau</ARTIST>
+		<COUNTRY>UK</COUNTRY>
+		<AUDIO>AUDIO/AUDIO.mp3</AUDIO>
+		<PRICE>7.9</PRICE>
+		<YEAR>1987</YEAR>
+		<IMAGE>images/IMAGE1.JPG</IMAGE>
+	</CD>
+	<CD>
+		<TITLE>Private Dancer</TITLE>
+		<ARTIST>Tina Turner</ARTIST>
+		<COUNTRY>UK</COUNTRY>
+		<AUDIO>AUDIO/AUDIO9.mp3</AUDIO>
+		<PRICE>8.9</PRICE>
+		<YEAR>1983</YEAR>
+		<IMAGE>images/IMAGE2.JPG</IMAGE>
+	</CD>
+	<CD>
+		<TITLE>Midt om natten</TITLE>
+		<ARTIST>Kim Larsen</ARTIST>
+		<COUNTRY>EU</COUNTRY>
+		<AUDIO>AUDIO/AUDIO10.mp3</AUDIO>
+		<PRICE>7.8</PRICE>
+		<YEAR>1983</YEAR>
+		<IMAGE>images/IMAGE3.JPG</IMAGE>
+	</CD>
+</CATALOG>
